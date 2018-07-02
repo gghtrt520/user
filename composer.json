@@ -9,5 +9,17 @@
             "email": "zhanglei520sl@126.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "repositories": [{
+        "type": "composer",
+        "url": "http://192.168.200.4/"
+    }],
+    "confing":{
+        "secure-http":false
+    },
+    "autoload": {
+        "psr-4": {
+            "lucifer\\user\\": "src/user/user"
+        }
+    }
 }
