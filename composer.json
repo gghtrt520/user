@@ -1,0 +1,13 @@
+{
+    "name": "lucifer/user",
+    "description": "user model",
+    "type": "library",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Lucifer",
+            "email": "zhanglei520sl@126.com"
+        }
+    ],
+    "require": {}
+}
