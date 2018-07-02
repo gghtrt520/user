@@ -2,6 +2,7 @@
     "name": "lucifer/user",
     "description": "user model",
     "type": "library",
+    "homepage": "https://github.com/gghtrt520/user",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -10,10 +11,6 @@
         }
     ],
     "require": {},
-    "repositories": [{
-        "type": "composer",
-        "url": "http://192.168.200.4/"
-    }],
     "confing":{
         "secure-http":false
     },
